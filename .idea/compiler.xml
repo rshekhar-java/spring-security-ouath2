@@ -12,12 +12,14 @@
         <module name="springsecbanksec5" />
         <module name="springsecbanksec6" />
         <module name="springsecbanksec3" />
+        <module name="springsecbanksec10" />
         <module name="springsecbanksec4" />
         <module name="springsecbanksec2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springsebanksec8" target="1.8" />
+      <module name="springsecbanksec10" target="1.8" />
       <module name="springsecbanksec2" target="1.8" />
       <module name="springsecbanksec3" target="1.8" />
       <module name="springsecbanksec4" target="1.8" />
@@ -33,6 +35,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springsebanksec8" options="-parameters" />
+      <module name="springsecbanksec10" options="-parameters" />
       <module name="springsecbanksec2" options="-parameters" />
       <module name="springsecbanksec3" options="-parameters" />
       <module name="springsecbanksec4" options="-parameters" />
