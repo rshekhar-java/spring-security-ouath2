@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springsecuritybasic" />
+        <module name="springsecbanksec9" />
+        <module name="springsebanksec8" />
+        <module name="springsecbanksec5" />
+        <module name="springsecbanksec6" />
+        <module name="springsecbanksec3" />
+        <module name="springsecbanksec4" />
+        <module name="springsecbanksec2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springsebanksec8" target="1.8" />
+      <module name="springsecbanksec2" target="1.8" />
+      <module name="springsecbanksec3" target="1.8" />
+      <module name="springsecbanksec4" target="1.8" />
+      <module name="springsecbanksec4 (1)" target="1.8" />
+      <module name="springsecbanksec5" target="1.8" />
+      <module name="springsecbanksec6" target="1.8" />
+      <module name="springsecbanksec7" target="1.8" />
+      <module name="springsecbanksec9" target="1.8" />
+      <module name="springsecbannksec9" target="1.8" />
+      <module name="springsecuritybasic" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springsebanksec8" options="-parameters" />
+      <module name="springsecbanksec2" options="-parameters" />
+      <module name="springsecbanksec3" options="-parameters" />
+      <module name="springsecbanksec4" options="-parameters" />
+      <module name="springsecbanksec4 (1)" options="-parameters" />
+      <module name="springsecbanksec5" options="-parameters" />
+      <module name="springsecbanksec6" options="-parameters" />
+      <module name="springsecbanksec7" options="-parameters" />
+      <module name="springsecbanksec9" options="-parameters" />
+      <module name="springsecbannksec9" options="-parameters" />
+      <module name="springsecuritybasic" options="-parameters" />
+    </option>
+  </component>
+</project>

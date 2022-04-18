@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/section1/springsecuritybasic/pom.xml" />
+        <option value="$PROJECT_DIR$/section2/springsecbanksec2/pom.xml" />
+        <option value="$PROJECT_DIR$/section3/springsecbanksec3/pom.xml" />
+        <option value="$PROJECT_DIR$/section4/springsecbanksec4/pom.xml" />
+        <option value="$PROJECT_DIR$/section5/springsecbanksec5/pom.xml" />
+        <option value="$PROJECT_DIR$/section6/springsecbanksec6/pom.xml" />
+        <option value="$PROJECT_DIR$/spring7/springsecbanksec7/pom.xml" />
+        <option value="$PROJECT_DIR$/spring8/springsebanksec8/pom.xml" />
+        <option value="$PROJECT_DIR$/section9/springsecbannksec9/pom.xml" />
+        <option value="$PROJECT_DIR$/section8/springsebanksec8/pom.xml" />
+        <option value="$PROJECT_DIR$/section9/springsecbanksec9/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/section7/springsecbanksec7/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
