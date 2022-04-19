@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/section12/SpringSecOAUTHGitHub/SpringSecOAUTHGitHub.iml" filepath="$PROJECT_DIR$/section12/SpringSecOAUTHGitHub/SpringSecOAUTHGitHub.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-security-outh2.iml" filepath="$PROJECT_DIR$/.idea/spring-security-outh2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring8/springsebanksec8/springsebanksec8.iml" filepath="$PROJECT_DIR$/spring8/springsebanksec8/springsebanksec8.iml" />
       <module fileurl="file://$PROJECT_DIR$/section10/springsecbanksec10/springsecbanksec10.iml" filepath="$PROJECT_DIR$/section10/springsecbanksec10/springsecbanksec10.iml" />

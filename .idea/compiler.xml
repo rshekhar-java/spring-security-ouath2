@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springsecuritybasic" />
+        <module name="SpringSecOAUTHGitHub" />
         <module name="springsecbanksec9" />
         <module name="springsebanksec8" />
         <module name="springsecbanksec5" />
@@ -29,11 +30,13 @@
       <module name="springsecbanksec7" target="1.8" />
       <module name="springsecbanksec9" target="1.8" />
       <module name="springsecbannksec9" target="1.8" />
+      <module name="SpringSecOAUTHGitHub" target="1.8" />
       <module name="springsecuritybasic" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringSecOAUTHGitHub" options="-parameters" />
       <module name="springsebanksec8" options="-parameters" />
       <module name="springsecbanksec10" options="-parameters" />
       <module name="springsecbanksec2" options="-parameters" />
