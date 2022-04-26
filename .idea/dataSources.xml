@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:mysql://database-1.cwgr4vpgvmnp.us-east-1.rds.amazonaws.com:3307</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="neobankdbH2" uuid="a0807348-bfe9-4fce-afce-6debff1b4fb7">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:mem:neobankdb</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
